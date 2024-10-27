@@ -1,1 +1,42 @@
 /* stylesheet for constitution.html */
+body {
+    font-family: "Georgia", "Times New Roman", serif;
+    font-size: 18px;
+    color: #222;
+    line-height: 1.5;
+    background-color: #f1f1f1;
+}
+
+section h3 {
+    color: #002868;
+}
+
+#amendments {
+    background-color: #ffffff;
+}
+
+footer p {
+    font-size: 14px;
+    color: #666;
+}
+
+#preamble p {
+    font-size: 24px;
+    font-style: italic;
+}
+
+a:link {
+    color: rgb(14, 31, 65);
+}
+
+a:visited {
+    color: #767676;
+}
+
+a:hover {
+    color: rgb(201, 53, 68);
+}
+
+a:active {
+    color: rgb(245, 188, 78);
+}
